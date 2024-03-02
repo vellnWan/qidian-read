@@ -23,7 +23,7 @@ SetupOCXFile=
 [Comment]
 
 [Script]
-'==========以下是按键精灵录制的内容==========
+
 MoveTo 691, 416
 Delay 55
 LeftClick 1
@@ -41,5 +41,4 @@ For 8
 	Delay 555
 Next
 
-'==========以上是按键精灵录制的内容==========
 
